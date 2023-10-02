@@ -1,3 +1,15 @@
+# Tour Booking App
+
+Features:
+
+- Dynamic setup for sections like navbar, footer, about, hero, about, services
+
+Topic covered:
+
+- Local database
+- Structure components with similar features
+- map() method
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

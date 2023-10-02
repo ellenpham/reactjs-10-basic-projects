@@ -1,5 +1,6 @@
 import logo from '../images/logo.svg';
-import { pageLinks } from '../data';
+import PageLinks from './PageLinks';
+import SocialLinks from './SocialLinks';
 
 function Navbar() {
     return (
@@ -12,36 +13,39 @@ function Navbar() {
                     </button>
                 </div>
             
-                <ul className="nav-links" id="nav-links">
+                <PageLinks parentClass='nav-links' itemClass='nav-link'/>
+    
+
+                {/* <ul className="nav-links" id="nav-links">
                     {pageLinks.map ( (link) => {
+                    return (
+                        <li key={link.id}>
+                            <a href={link.href} className="nav-link">
+                                {link.text}
+                            </a>
+                        </li>
+                        );
+                    })}
+                </ul> */}
+
+                <SocialLinks parentClass='nav-links' itemClass='nav-link'/>
+
+                {/* <ul className="nav-icons">
+                    {socialLinks.map( (link) => {
+                        const { id, href, icon} = link;
+
                         return (
-                            <li key={link.id}>
-                                <a href={link.href} className="nav-link">{link.text}</a>
+                            <li key={id}>
+                                <a href={href} target="_blank" rel="noreferrer" className="nav-icon">
+                                    <i className={icon}></i>
+                                </a>
                             </li>
                         );
                     })}
-                </ul>
-
-                <ul className="nav-icons">
-                    <li>
-                        <a href="https://www.twitter.com" target="_blank" className="nav-icon"
-                        ><i className="fab fa-facebook"></i
-                        ></a>
-                    </li>
-                    <li>
-                        <a href="https://www.twitter.com" target="_blank" className="nav-icon"
-                        ><i className="fab fa-twitter"></i
-                        ></a>
-                    </li>
-                    <li>
-                        <a href="https://www.twitter.com" target="_blank" className="nav-icon"
-                        ><i className="fab fa-squarespace"></i
-                        ></a>
-                    </li>
-                </ul>
+                </ul> */}
             </div>
         </nav>
-    )
-}
+    );
+};
 
 export default Navbar;

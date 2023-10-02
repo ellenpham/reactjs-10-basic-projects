@@ -63,7 +63,7 @@ body {
 ul {
   list-style-type: none;
 }
-a {
+button {
   text-decoration: none;
 }
 img:not(.nav-logo) {
