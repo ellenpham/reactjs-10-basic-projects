@@ -1,3 +1,17 @@
+# React fundamentals 
+
+Features:
+
+- A list of best-selling books with tagged numbers that represent the popular level.
+- Buttons for options of "Save to wish list" and "Not interested"
+
+Topic covered:
+
+- Local images
+- Basic components and props
+- map() and find() methods
+- Basic click event
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
