@@ -49,6 +49,13 @@ Global Styles
   padding: 0;
   box-sizing: border-box;
 }
+
+/* Smooth scroll 
+  Need to add a navbar height
+  .section {
+    scroll-margin-top: 4rem
+  }
+*/
 html {
   scroll-behavior: smooth;
 }
