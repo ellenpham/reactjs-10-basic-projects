@@ -5,7 +5,7 @@ import img4 from './images/book-4.jpg'
 import img5 from './images/book-5.jpg'
 import img6 from './images/book-6.jpg'
 
-export const books = [
+export const booksData = [
     {
         author: 'Sally Page',
         title: 'The Keeper Of Stories',
