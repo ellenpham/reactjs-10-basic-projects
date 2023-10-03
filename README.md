@@ -7,5 +7,10 @@ https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/36
 ### Topics:
 
 - React fundamentals - Create a simple booklist
-- Tour booking app - Backroads website project
-- Advanced react (hooks, reducers, data fetching, context API, etc.)
+- Tour booking website - Practice of reusable components
+- Advanced React concepts (hooks, reducers, data fetching, context API, etc.)
+- Corresponding projects with advanced React concepts
+    - Birthday list: practice of iterating, rendering and clearing list items
+    - Tours: practice of API fetching, rendering and removing data, read more/show less toggle, data re-fetching
+
+...to be continued 
