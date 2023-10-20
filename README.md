@@ -12,5 +12,10 @@ https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/36
 - Corresponding projects with advanced React concepts
     - Birthday list: practice of iterating, rendering and clearing list items
     - Tours: practice of API fetching, rendering and removing data, read more/show less toggle, data re-fetching
+    - Reviews section: practice of switching between previous and next items using indexes, displaying random items, modulus operators
+    - Questions (FAQ)
+    - Filtering menu
+    - Tabs
+    - Slider
 
 ...to be continued 
