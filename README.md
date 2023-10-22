@@ -13,7 +13,7 @@ https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/36
     - Birthday list: practice of iterating, rendering and clearing list items
     - Tours: practice of API fetching, rendering and removing data, read more/show less toggle, data re-fetching
     - Reviews section: practice of switching between previous and next items using indexes, displaying random items, modulus operators
-    - Questions (FAQ)
+    - Questions (FAQ): practice of toggling read mode and identifying active items by setting state for an active ID
     - Filtering menu
     - Tabs
     - Slider
