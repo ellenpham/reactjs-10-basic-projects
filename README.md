@@ -15,7 +15,7 @@ https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/36
     - Reviews section: practice of switching between previous and next items using indexes, displaying random items, modulus operators
     - Questions (FAQ): practice of toggling read mode and identifying active items by setting state for an active ID
     - Filtering menu: practice of filtering items by categories
-    - Tabs
+    - Tabs: practice of displaying items by switching tabs
     - Slider
 
 ...to be continued 

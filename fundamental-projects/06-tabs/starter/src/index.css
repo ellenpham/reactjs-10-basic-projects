@@ -278,7 +278,8 @@ ul {
 }
 .job-btn:hover {
   color: var(--primary-500);
-  box-shadow: 0 2px var(--primary-500);
+  /* use box-shadow intead of underline so the text is not shifting */
+  box-shadow: 0 2px var(--primary-500); 
 }
 .active-btn {
   color: var(--primary-500);
