@@ -17,5 +17,3 @@ https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/36
     - Filtering menu: practice of filtering items by categories
     - Tabs: practice of displaying items by switching tabs
     - Slider
-
-...to be continued 
